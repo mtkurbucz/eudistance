@@ -8,3 +8,5 @@ The eudistance function calculates the centroid distance matrix for the differen
 # install.packages("devtools")
 # library(devtools)
 install_github("mtkurbucz/eudistance")
+
+/* This text is in Century Gothic */ .class { font-family: Century Gothic,CenturyGothic,AppleGothic,sans-serif; }
