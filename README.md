@@ -1,4 +1,4 @@
-# **eudistance** R package
+# *eudistance* R package
 Distance Calculator for the Different Levels of European NUTS Regions
 
 ## Description
