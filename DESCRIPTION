@@ -1,0 +1,10 @@
+Package: eudistance
+Type: Package
+Title: Distance Calculator for the Different Levels of European NUTS Regions
+Version: 0.1.0
+Author: Marcell T. Kurbucz, Attila I. Katona
+Maintainer: Marcell T. Kurbucz <kurbucz.marcell@wigner.hu>
+Description: The eudistance function calculates the centroid distance matrix for the different levels of the EU NUTS regions in meters and complements it by their code, name, level, and country identifier, as well as their geometric data and centroids. Optionally, this R function displays centroids on a map of Europe to ease the verification of their positions.
+License: GNU General Public License v3.0
+Encoding: UTF-8
+LazyData: true
