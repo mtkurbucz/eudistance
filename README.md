@@ -14,5 +14,5 @@ install_github("mtkurbucz/eudistance")
 ## Citation request
 Please reference as:
 <ul>
-  <li>Kurbucz, M. T., & Katona, A. I. (2022). eudistance: Distance calculator for the different levels of European NUTS regions. Software Impacts, 13, 100327.</li>
+  <li>Kurbucz, M. T., & Katona, A. I. (2022). eudistance: Distance calculator for the different levels of European NUTS regions. *Software Impacts*, 13, 100327.</li>
 </ul>
